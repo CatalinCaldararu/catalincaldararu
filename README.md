@@ -1,4 +1,4 @@
-## Hello, I am Catalin Caldararu
+## Hello, I am (Andrei) Catalin Caldararu
 - AI Products Developer  
 - Full Stack .NET AI Software Developer with 5 years of experience  
 - Building Agentic, Hybrid Edge-Cloud and On-device AI products  
