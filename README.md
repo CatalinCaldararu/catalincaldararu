@@ -1,16 +1,13 @@
-## Hi there 👋
+## Overview
+- AI Products Developer  
+- Full Stack .NET AI Software Developer with 5 years of experience  
+- Building Agentic, Hybrid Edge-Cloud and On-device AI products  
 
-<!--
-**CatalinCaldararu/catalincaldararu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Location: Bucharest, Romania and Remote  
+Languages: English – Proficient, Romanian – Native  
+Contact: For inquiries please contact me on LinkedIn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Highlights
+- Led the design and development of 7 production-grade on-device conversational AI services  
+- Built a patent-backed AI IP portfolio from zero, serving as lead inventor on 10 patents  
+- MSc in Management Information Systems, PSPO II and PSM II Certified and 3 Years of cross-functional collaboration as a developer  
