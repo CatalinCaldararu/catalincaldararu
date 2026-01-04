@@ -1,6 +1,5 @@
 Full Stack .NET AI Software Developer with 5 years of experience and strong product skills.
-Building Agentic, Hybrid Edge-Cloud and On-device AI products.
-Lead inventor on 10 AI patents and contributor to conversational AI services deployed to millions of devices.
+I am building Agentic, Hybrid Edge-Cloud and On-device AI products as a lead inventor on 10 AI patents and a contributor to On-device Conversational AI services deployed to millions of devices.
 
-Contact: LinkedIn  
-More details: https://www.catalincaldararu.com
+- For inquiries please contact me on [LinkedIn  ](https://www.linkedin.com/in/catalin-caldararu/).
+- For more details please see my [personal website](https://www.catalincaldararu.com/).
